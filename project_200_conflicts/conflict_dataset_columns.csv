@@ -1,0 +1,18 @@
+Column Name,Description
+conflict_id,Unique identifier assigned to each conflict in the dataset
+location,Country where the conflict takes place
+side_a,Primary actor on side A (usually the government of a state)
+side_a_id,Numeric identifier for the main actor on side A
+side_a_2nd,Secondary actor or supporting group on side A
+side_b,Primary opposing actor (rebel group, state, or organization)
+side_b_id,Numeric identifier for the main actor on side B
+side_b_2nd,Secondary actor or supporting group on side B
+incompatibility,Main issue of the conflict such as government control or territorial control
+territory_name,Name of the territory if the conflict concerns a specific region
+year,Year of the observation in which the conflict activity is recorded
+intensity_level,Level of conflict intensity (1 = minor conflict, 2 = war)
+cumulative_intensity,Indicates whether the conflict has ever reached war-level intensity
+type_of_conflict,Type of conflict (interstate, intrastate, internationalized intrastate, extrastate)
+start_year,Year when the conflict first began
+start_date,Exact starting date of the conflict if available
+ep_end,Indicates whether the conflict episode ended in that year
