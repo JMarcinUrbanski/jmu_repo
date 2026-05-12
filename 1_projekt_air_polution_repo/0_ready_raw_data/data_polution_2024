@@ -1,4 +1,4 @@
-,Date_time,LdLodzCzerni_PM10,WpPoznSzwajc_PM10,LdLodzCzerni_PM25,WpPoznSzwajc_PM25,LdLodzCzerni_NO2,WpPoznSzwajc_NO2,LdLodzJanPaw_CO,WpPozn_CO
+,Date_time,LdLodz_PM10,WpPozn_PM10,LdLodz_PM25,WpPozn_PM25,LdLodz_NO2,WpPozn_NO2,LdLodz_CO,WpPozn_CO
 0,2024-01-01 01:00:00,48,72.3,43.2,67.9,,,0.682,0.621
 1,2024-01-01 02:00:00,44,93.2,39.2,88.7,10.2,19.8,0.783,0.668
 2,2024-01-01 03:00:00,44,87.6,39.2,84.6,12.4,22,0.786,0.684
